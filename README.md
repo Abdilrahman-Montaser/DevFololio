@@ -1,3 +1,3 @@
-# DevFololio
+# DevFolio
 My Portofolio Website...
 ## DEMO: https://abdilrahman-montaser.github.io/DevFololio/
